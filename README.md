@@ -1,7 +1,10 @@
 # Planificacion y Diseño de Pruebas de Software
 Proyecto usando herramientas como Excel
 
-Este repositorio contiene un proyecto que se enfocó en proporcionar una introducción y práctica fundamental en la planificación y diseño de pruebas, así como en la búsqueda de errores en una aplicación web. Durante el desarrollo, se exploraron conceptos esenciales como la creación de planes de prueba detallados, el diseño de casos de prueba específicos basados en requisitos funcionales y no funcionales, y la ejecución de pruebas manuales. "https://docs.google.com/spreadsheets/d/1Mq2EcFgxph7tCeIAYYcWh6M54KsWzic8/edit?usp=drive_link&ouid=107666868616548846051&rtpof=true&sd=true"
+Este repositorio contiene un proyecto que se enfocó en proporcionar una introducción y práctica fundamental en la planificación y diseño de pruebas, así como en la búsqueda de errores en una aplicación web. Durante el desarrollo, se exploraron conceptos esenciales como la creación de planes de prueba detallados, el diseño de casos de prueba específicos basados en requisitos funcionales y no funcionales, y la ejecución de pruebas manuales. 
+
+# Documentación
+"https://docs.google.com/spreadsheets/d/1Mq2EcFgxph7tCeIAYYcWh6M54KsWzic8/edit?usp=drive_link&ouid=107666868616548846051&rtpof=true&sd=true"
 
 # Instrucciones de Ejecución
 El proyecto incluye una carpeta dedicada que contiene el código fuente y todos los recursos necesarios para su ejecución.
